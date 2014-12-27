@@ -21,21 +21,3 @@ edit_comment GET    /comments/:id/edit(.:format) comments#edit
              DELETE /posts/:id(.:format)         posts#destroy
 
 #####################################################################
-
-
-
-Agile Development in Rails:
-
-- It emphasizes working software as the primary measure of progress
-
-- A working application is available immediately
-
-- In development mode, there are no recompile, deploy, restart cycles, i.e, Rails does not generally require to stop the server. Changes made to the application will be automatically picked up by the server.
-
-- Rails has simple tools to generate code quickly
-
-- Testing is built into the Rails framework
-
-- Extreme programming: It is an agile approach that centers around test-driven development (TDD)
-
-- Behaviour-driven development (BDD): A second generation agile approach which extends TDD by writing test cases in natural language that non-programmers can read.
