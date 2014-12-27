@@ -39,3 +39,12 @@ Agile Development in Rails:
 - Extreme programming: It is an agile approach that centers around test-driven development (TDD)
 
 - Behaviour-driven development (BDD): A second generation agile approach which extends TDD by writing test cases in natural language that non-programmers can read.
+
+
+BDD Tools for Ruby:
+--------------------
+
+1. RSpec
+2. Cucumber
+
+
